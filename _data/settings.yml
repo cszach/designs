@@ -9,9 +9,9 @@ menu:
 # SEO
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: 'Nguyen Hoang Duong''s art and design portfolio'
+  rel-author:
+  rel-publisher:
 
 # Google Analytics
 
@@ -34,19 +34,14 @@ contact: >
 # Projects
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: '42tm''s Linux Command Line Guide', folder: 'lclg', file: 'projects/lclg.html'}
 
 # Social
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'instagram', link: 'you_create.designs'}
+- {icon: 'github', link: 'you-create'}
+- {icon: 'dribbble', link: 'you_create'}
+- {icon: 'soundcloud', link: 'user-235709988'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

@@ -1,14 +1,3 @@
 <div class="image-container">
-  <a href="{{ include.url }}" target="_blank">
     <img src="{{ 'assets/img/' | append: include.image | absolute_url }}" alt="Avatar" class="image">
-    <div class="overlay">
-      <div class="text">
-        {% if include.text %}
-          {{ include.text }} <i class="fa fa-arrow-right" aria-hidden="true"></i>
-        {% else %}
-          View Demo <i class="fa fa-arrow-right" aria-hidden="true"></i>
-        {% endif %}
-      </div>
-    </div>
-  </a>
 </div>
