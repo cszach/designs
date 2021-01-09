@@ -27,6 +27,10 @@ Temporary Items
 ### Jekyll ###
 _site/
 
+### Bundle ###
+
+bundle/
+
 ### Sass ###
 .sass-cache
 
