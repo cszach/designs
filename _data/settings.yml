@@ -35,6 +35,7 @@ contact: >
 
 projects:
 - {name: '42tm''s Linux Command Line Guide', folder: 'lclg', file: 'projects/lclg.html'}
+- {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
 
 # Social
 

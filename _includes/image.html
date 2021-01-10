@@ -1,3 +1,14 @@
 <div class="image-container">
-    <img src="{{ 'assets/img/' | append: include.image | absolute_url }}" alt="Avatar" class="image">
+  {% if include.url and include.text %}
+  <a href="{{ include.url }}" target="_blank">
+    <img src="{{ 'assets/img/' | append: include.image | absolute_url }}" alt="{{ include.image }}" class="image">
+    <div class="overlay">
+      <div class="text">
+        {% if include.text %} {{ include.text }} {% else %} View Demo {% endif %}
+      </div>
+    </div>
+  </a>
+  {% else %}
+  <img src="{{ 'assets/img/' | append: include.image | absolute_url }}" alt="{{ include.image }}" class="image">
+  {% endif %}
 </div>
