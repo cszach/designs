@@ -12,9 +12,9 @@ projects:
 - {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
 
 social:
-- {icon: 'instagram', link: 'you_create.designs'}
-- {icon: 'github', link: 'you-create'}
-- {icon: 'dribbble', link: 'you_create'}
-- {icon: 'soundcloud', link: 'user-235709988'}
+- {icon: 'instagram', link: 'https://www.instagram.com/you_create.designs'}
+- {icon: 'github', link: 'https://github.com/you-create'}
+- {icon: 'dribbble', link: 'https://dribbble.com/you_create'}
+- {icon: 'soundcloud', link: 'https://soundcloud.com/user-235709988'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
