@@ -12,11 +12,12 @@
   <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
+      {% assign sliced_title = page.title | slice: 0, 9 %}
+      {% if sliced_title == "/ designs" %}
+        {{ page.title | default: site.title }}
+      {% else %}
+        {{ page.title | default: site.title | prepend: "/ designs / " }}
+      {% endif %}
   </title>
 
   <link rel="stylesheet" href="{{ '/assets/css/all.css' | absolute_url }}">
@@ -28,7 +29,7 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
   </script> -->
 
-  {% seo %}
+  {% seo title=false %}
 
 </head>
 <body>

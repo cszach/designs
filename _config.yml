@@ -2,7 +2,7 @@ markdown: kramdown
 permalink: none
 plugins: [jekyll-sitemap,  jekyll-seo-tag]
 
-title: /designs
+title: Duong / designs
 
 exclude: [bundle]
 

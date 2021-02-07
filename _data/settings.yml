@@ -8,11 +8,11 @@ seo:
   rel-publisher:
 
 projects:
-- {name: '42tm''s Linux Command Line Guide', folder: 'lclg', file: 'projects/lclg.html'}
+- {name: 'Linux Command Line Guide', folder: 'lclg', file: 'projects/lclg.html'}
 - {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
 
 social:
-- {icon: 'instagram', link: 'https://www.instagram.com/you_create.designs'}
+- {icon: 'instagram', link: 'https://www.instagram.com/thechonkypenguin'}
 - {icon: 'github', link: 'https://github.com/you-create'}
 - {icon: 'dribbble', link: 'https://dribbble.com/you_create'}
 - {icon: 'soundcloud', link: 'https://soundcloud.com/user-235709988'}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42tm''s Linux Command Line Guide'
+title: 'Linux Command Line Guide'
 ---
 
 From 2018 to 2019, I wrote an e-book on Linux command line basics for absolute
