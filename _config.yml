@@ -4,6 +4,13 @@ plugins: [jekyll-sitemap,  jekyll-seo-tag]
 
 title: Duong / designs
 
+defaults:
+  -
+    scope:
+      path: "projects"
+    values:
+      permalink: /:basename
+
 exclude: [bundle]
 
 sass:
