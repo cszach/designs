@@ -8,6 +8,7 @@ seo:
   rel-publisher:
 
 projects:
+- {name: 'Logos', folder: 'logos', file: 'projects/logos.html'}
 - {name: 'Linux Command Line Guide', folder: 'lclg', file: 'projects/lclg.html'}
 - {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
 
@@ -17,4 +18,6 @@ social:
 - {icon: 'dribbble', link: 'https://dribbble.com/you_create'}
 - {icon: 'soundcloud', link: 'https://soundcloud.com/user-235709988'}
 
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+# social network icons available:
+# 'twitter' / 'facebook' / 'github' / 'pinterest' / 'google-plus' / 'linkedin' /
+# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
