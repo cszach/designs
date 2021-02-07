@@ -8,10 +8,10 @@ seo:
   rel-publisher:
 
 projects:
-- {name: '356', folder: '356', file: 'projects/356.html'}
 - {name: 'Logos', folder: 'logos', file: 'projects/logos.html'}
 - {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
 - {name: 'Linux Command Line Guide', folder: 'lclg', file: 'projects/lclg.html'}
+- {name: '356', folder: '356', file: 'projects/356.html'}
 
 social:
 - {icon: 'instagram', link: 'https://www.instagram.com/thechonkypenguin'}
