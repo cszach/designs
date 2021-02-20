@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: none
-plugins: [jekyll-sitemap,  jekyll-seo-tag]
+plugins: [jekyll-sitemap, jekyll-seo-tag, jemoji]
 
 title: Duong / designs
 

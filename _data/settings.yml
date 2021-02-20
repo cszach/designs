@@ -8,8 +8,9 @@ seo:
   rel-publisher:
 
 projects:
-- {name: 'Logos', folder: 'logos', file: 'logos.html'}
+- {name: '2D vector', folder: '2d-vector', file: '2d-vector.html'}
 - {name: 'Websites', folder: 'websites', file: 'websites.html'}
+- {name: 'Logos', folder: 'logos', file: 'logos.html'}
 - {name: 'Linux Command Line Guide', folder: 'lclg', file: 'lclg.html'}
 - {name: '356', folder: '356', file: '356.html'}
 
