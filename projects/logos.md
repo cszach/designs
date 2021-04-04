@@ -28,6 +28,12 @@ programming, especially HTML. Together with the orbiting planet (orange circle)
 and the comet (in white), these brackets form an image of the number 42. All of
 this is in the realm of a beautiful violet-pinky nebula.
 
+{% include image.html image="projects/logos/webdev.png" %}
+
+The logo of the _WebDev - Mutual assistance/learning_ Discord server which I am
+a member of. We are a group of close friends assisting and learning with each
+other about web development.
+
 {% include image.html image="projects/logos/better-readme.png" %}
 
 The logo of [The Better README Project](https://betterread.me). Simple like the
