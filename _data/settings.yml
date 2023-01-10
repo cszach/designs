@@ -8,6 +8,7 @@ seo:
   rel-publisher:
 
 projects:
+- {name: 'Dandelion', folder: 'dandelion', file: 'dandelion.html' }
 - {name: 'Donuts', folder: 'donuts', file: 'donuts.html' }
 - {name: 'Websites', folder: 'websites', file: 'websites.html'}
 - {name: '2D vector', folder: '2d-vector', file: '2d-vector.html'}
