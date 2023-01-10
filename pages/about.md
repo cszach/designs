@@ -5,7 +5,7 @@ title: About
 
 # Hi there! I'm Duong.
 
-I am a high school senior with a lot of dreams.
+I am a ~~high school senior~~ college sophomore with a lot of dreams.
 
 I taught myself graphics design through a book I found in the school library.
 For the past 3 years in high school, I have been using the knowledge I acquired
