@@ -17,7 +17,7 @@ for unpaid jobs, haha.
 Except, we wanted to keep the app simple to use. I was the only guy in charge of
 spitting out UI designs, and the prototypes below were what I came up with.
 
-{% include image.html image="projects/dandelion/explore-find" %}
+{% include image.html image="projects/dandelion/explore-find.png" %}
 
 This is the main "job search" interface. It is a slippy map and it was supposed
 to be populated with clickable pins, each one for a posted job. Somehow I did
